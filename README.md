@@ -15,7 +15,7 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="01111110011000010111010001101000" height="30" width="40" />01111110011000010111010001101000</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">languages and tools:</h3>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
