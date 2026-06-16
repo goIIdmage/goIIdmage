@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <img src="https://i.imgur.com/VlsnTjB.png" width="300"><br>
-      <h1>i'm goIIdmage</h1>
+      <h1>i'm goldmage</h1>
       <h3>i like to fiddle with computers and make stuff.</h3>
     </td>
   </tr>
