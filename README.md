@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-<h3 align="left">connect with me:</h3>
+<h3 align="left">socials:</h3>
 <p align="left">
 <a href="https://discord.com/users/1513431393378500812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="01111110011000010111010001101000" height="30" width="40" /></a>
 </p>
