@@ -1,6 +1,6 @@
 <center>
 <h1 align="center">i'm goidmage</h1>
-<h3 align="center"><a href="site">https://goldmage.neocities.org</a></h3>
+<h3 align="center"><a href="https://goldmage.neocities.org">site</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goiidmage&label=Profile%20views&color=0e75b6&style=flat" alt="goiidmage" /> </p>
 
