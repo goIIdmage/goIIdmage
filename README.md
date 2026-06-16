@@ -8,16 +8,6 @@
   </tr>
 </table>
 
-<h3 align="center">socials:</h3>
-<p align="center">
-<a href="https://discord.com/users/1513431393378500812" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-</a>
-<a href="https://goldmage.neocities.org" target="blank">
-  <img src="https://goldmage.neocities.org/img/trollcool.gif" height="30" width="30"/>
-</a>
-</p>
-
 <h3 align="center">languages and tools:</h3>
 <p align="center">
   <a href="https://www.blender.org/">
