@@ -29,9 +29,6 @@
   <a href="https://www.w3schools.com/cpp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/css/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   </a>
