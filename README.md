@@ -1,10 +1,8 @@
 <h1 align="center">i'm goidmage</h1>
-<h3 align="center">d</h3>
+<h3 align="center"><a href="site">https://goldmage.neocities.org</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goiidmage&label=Profile%20views&color=0e75b6&style=flat" alt="goiidmage" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
