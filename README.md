@@ -5,14 +5,14 @@
     </td>
     <td>
       <h1>i'm goIIdmage</h1>
-      <h3>i like to fiddle with computers and make stuff</h3>
+      <h3>i like to fiddle with computers and make stuff.</h3>
     </td>
   </tr>
 </table>
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="01111110011000010111010001101000" height="30" width="40" />01111110011000010111010001101000</a>
+<a href="https://discord.com/users/1513431393378500812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="01111110011000010111010001101000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">languages and tools:</h3>
